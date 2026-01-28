@@ -2,14 +2,20 @@
 ## Lab 1-2: Cloud Computing Foundation: Reporting Guidelines  
 University of Amsterdam
 
-# Objectives  
+# 1. Introduction
+In this tutorial assignment, you will explore the fundamentals of Cloud 
+Computing using AWS Academy resources. The goal is to gain an understanding of 
+cloud concepts, services, and best practices, as well as 
+hands-on experience with cloud service provisioning and management.
+
+The objectives of this assignment are to:
 - Understand the foundation of Cloud Computing  
 - Learn from the best industry practices in cloud services provisioning and management  
 - Get practical experience working with cloud services using AWS as an example of a cloud service provider  
 
 ---
-# Background
-## Learning Materials and Learning Platform  
+## Background
+### Learning Materials and Learning Platform  
 This assignment is based on educational and computing resources provided by the AWS Academy in their introductory course **Cloud Computing Foundation** on the AWS Academy Canvas platform. It contains lessons, learning materials, and a sandbox lab platform.
 
 - Students are provided free accounts on the Canvas platform along with AWS educational lab sandbox access for course lessons and individual projects.  
@@ -19,20 +25,21 @@ This assignment is based on educational and computing resources provided by the 
 
 ---
 
+# 2. Tutorial
 ## Lab 2 Block 1: Cloud Computing Basics  
-### To Complete the Assignment  
+To Complete the Assignment:  
 Register and study the **AWS Cloud Foundation** course, completing at least the essential modules for the **DevOps course**, which you must report on:
 
-#### **Mandatory Modules:**  
+## **Mandatory Modules:**  
 1, 2, 4 (sections 1-3), 5 (sections 1-4), 6, 7  
 
-#### **Optional Modules:**  
+## **Optional Modules:**  
 4 (sections 4-6), 5 (sections 5, 6), 8, 9, 10  
 
-#### **Mandatory Labs:**  
+## **Mandatory Labs:**  
 1, 2, 3  
 
-#### **Optional Labs (Highly Recommended):**  
+## **Optional Labs (Highly Recommended):**  
 4, 5  
 
 ---
@@ -47,32 +54,7 @@ Use AWS Academy resources to perform the following tasks:
   - Select components and metrics to monitor.  
   - Provide observations and suggestions for using cloud monitoring services in your project.  
 
----
-
-## Reporting and Grading  
-### Requirements for Successful Submission  
-1. **Knowledge Checking**  
-   - Successfully passed Knowledge Checks for **Modules 1, 2, 4, 6, 10**  
-   - Optional but highly advised: **Modules 5, 7**  
-
-2. **Practice/Labs: CloudWatch Monitoring Functionality**  
-   - Provide **2-3 screenshots** demonstrating the CloudWatch monitoring dashboard (e.g., Alarms, EC2 instances combined and individual).  
-   - Demonstrate **scaling up and scaling out** effects (increasing and decreasing the number of instances).  
-
-3. **Summary of Learning**  
-   - Summarize observations on **scalability and load balancing** (reaction and decommissioning time).  
-   - CloudWatch visualization and dashboard functions.  
-   - (Optional) Provide suggestions for using **CloudWatch functionality** in your project.  
-
-4. **Answer at least 3 Self-Study and Research Questions**  
-   - Expected answer length: **8-10 lines per question** (max **0.5 pages** per question, images optional).  
-
-5. **Provide a Summary of Learning**  
-
-6. **Submit Report to Canvas**  
-
----
-
+    
 ## Self-Check/Self-Study Questions on Cloud Monitoring  
 1. What metrics would you use for your website serving as:  
    - A webshop for a travel agency?  
