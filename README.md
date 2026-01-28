@@ -44,9 +44,9 @@ Register and study the **AWS Cloud Foundation** course, completing at least the 
 
 ---
 
-## Lab 2 Block 2: Scaling and Monitoring  
-### To Complete the Assignment  
-Use AWS Academy resources to perform the following tasks:
+# 3. Tasks
+To Complete the Assignment use AWS Academy resources to perform the 
+following tasks:
 
 - Re-visit/study **Module 10: Auto Scaling and Monitoring**  
 - Perform **Lab 6**, including additional tasks to investigate **CloudWatch functionality**:  
