@@ -1,6 +1,7 @@
-# DevOps and Cloud Based Software  
-## Lab 1-2: Cloud Computing Foundation: Reporting Guidelines  
-University of Amsterdam
+Cloud Computing Foundation: Reporting Guidelines
+==============
+
+***University of Amsterdam***
 
 # 1. Introduction
 In this tutorial assignment, you will explore the fundamentals of Cloud 
@@ -14,8 +15,8 @@ The objectives of this assignment are to:
 - Get practical experience working with cloud services using AWS as an example of a cloud service provider  
 
 ---
-## Background
-### Learning Materials and Learning Platform  
+
+## Learning Materials and Learning Platform  
 This assignment is based on educational and computing resources provided by the AWS Academy in their introductory course **Cloud Computing Foundation** on the AWS Academy Canvas platform. It contains lessons, learning materials, and a sandbox lab platform.
 
 - Students are provided free accounts on the Canvas platform along with AWS educational lab sandbox access for course lessons and individual projects.  
@@ -26,25 +27,29 @@ This assignment is based on educational and computing resources provided by the 
 ---
 
 # 2. Tutorial
-## Lab 2 Block 1: Cloud Computing Basics  
+## Cloud Computing Basics  
 To Complete the Assignment:  
 Register and study the **AWS Cloud Foundation** course, completing at least the essential modules for the **DevOps course**, which you must report on:
 
-## **Mandatory Modules:**  
-1, 2, 4 (sections 1-3), 5 (sections 1-4), 6, 7  
+* **Mandatory Modules:** 
+  * 1, 2, 4 (sections 1-3)
+  * 5 (sections 1-4)
+  * 6, 7  
 
-## **Optional Modules:**  
-4 (sections 4-6), 5 (sections 5, 6), 8, 9, 10  
+* **Optional Modules:**
+  * 4 (sections 4-6), 
+  * 5 (sections 5, 6), 
+  * 8, 9, 10  
 
-## **Mandatory Labs:**  
-1, 2, 3  
+* **Mandatory Labs:**
+  * 1, 2, 3  
 
-## **Optional Labs (Highly Recommended):**  
-4, 5  
+* **Optional Labs (Highly Recommended):**
+  * 4, 5  
 
 ---
 
-# 3. Tasks
+
 To Complete the Assignment use AWS Academy resources to perform the 
 following tasks:
 
@@ -54,22 +59,7 @@ following tasks:
   - Select components and metrics to monitor.  
   - Provide observations and suggestions for using cloud monitoring services in your project.  
 
-    
-## Self-Check/Self-Study Questions on Cloud Monitoring  
-1. What metrics would you use for your website serving as:  
-   - A webshop for a travel agency?  
-   - A streaming music website?  
-   - An environment monitoring server collecting sensor data?  
 
-2. What is the benefit of using a **dashboard** compared to individual service metrics?  
-
-3. What is an **Event Bus**? How can you use it with your application? What are its inputs and outputs?  
-
-4. What tools for **log collection and analysis** does AWS provide in addition to **CloudWatch**? What supporting services are involved? What are the costs of logging and analysis?  
-
-5. What is the use of **CloudWatch Alarms**? How are alarms related to metrics? What other AWS services can be used with alarms? (*Hint: Consider SNS and others.*)  
-
-6. Is **metrics collection** different for AMI/VMs, serverless/Lambda, and containerized applications?  
 
 ---
 
@@ -93,3 +83,17 @@ following tasks:
 - **Lab 4** - Working with EBS  
 - **Lab 5** - Build a Database Server  
 - **Lab 6** - Scale & Load Balance your Architecture  
+
+
+# 3. Questions
+
+## Cloud Monitoring  
+1. What metrics would you use for your website serving as:  
+   - A webshop for a travel agency?  
+   - A streaming music website?  
+   - An environment monitoring server collecting sensor data?
+2. What is the benefit of using a **dashboard** compared to individual service metrics?
+3. What is an **Event Bus**? How can you use it with your application? What are its inputs and outputs?
+4. What tools for **log collection and analysis** does AWS provide in addition to **CloudWatch**? What supporting services are involved? What are the costs of logging and analysis?
+5. What is the use of **CloudWatch Alarms**? How are alarms related to metrics? What other AWS services can be used with alarms? (*Hint: Consider SNS and others.*)
+6. Is **metrics collection** different for AMI/VMs, serverless/Lambda, and containerized applications?  
