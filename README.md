@@ -6,8 +6,8 @@ Cloud Computing Foundation: Reporting Guidelines
 # 1. Introduction
 In this tutorial assignment, you will explore the fundamentals of Cloud 
 Computing using AWS Academy resources. The goal is to gain an understanding of 
-cloud concepts, services, and best practices, as well as 
-hands-on experience with cloud service provisioning and management.
+cloud concepts, services, and best practices, as well as hands-on experience 
+with cloud service provisioning and management.
 
 The objectives of this assignment are to:
 - Understand the foundation of Cloud Computing  
@@ -16,8 +16,11 @@ The objectives of this assignment are to:
 
 ---
 
-## Learning Materials and Learning Platform  
-This assignment is based on educational and computing resources provided by the AWS Academy in their introductory course **Cloud Computing Foundation** on the AWS Academy Canvas platform. It contains lessons, learning materials, and a sandbox lab platform.
+## 1.1 Learning Materials and Learning Platform  
+This assignment is based on educational and computing resources provided by the 
+AWS Academy in their introductory course **Cloud Computing Foundation** on the 
+AWS Academy Canvas platform. It contains lessons, learning materials, and a 
+sandbox lab platform.
 
 - Students are provided free accounts on the Canvas platform along with AWS educational lab sandbox access for course lessons and individual projects.  
 - Each student is granted **$100 USD credits** for the duration of the course.  
@@ -27,7 +30,8 @@ This assignment is based on educational and computing resources provided by the 
 ---
 
 # 2. Tutorial
-## Cloud Computing Basics  
+
+## 2.1 Cloud Computing Basics  
 To Complete the Assignment:  
 Register and study the **AWS Cloud Foundation** course, completing at least the essential modules for the **DevOps course**, which you must report on:
 
@@ -63,7 +67,7 @@ following tasks:
 
 ---
 
-## AWS Academy Class Modules and Labs (For Reference)  
+## 2.2 AWS Academy Class Modules and Labs (For Reference)  
 ### **Modules:**  
 - **Module 1** - Cloud Concepts Overview  
 - **Module 2** - Cloud Economics and Billing  
@@ -82,12 +86,11 @@ following tasks:
 - **Lab 3** - Introduction to Amazon EC2  
 - **Lab 4** - Working with EBS  
 - **Lab 5** - Build a Database Server  
-- **Lab 6** - Scale & Load Balance your Architecture  
+- **Lab 6** - Scale & Load Balance your Architecture 
 
 
 # 3. Questions
 
-## Cloud Monitoring  
 1. What metrics would you use for your website serving as:  
    - A webshop for a travel agency?  
    - A streaming music website?  
