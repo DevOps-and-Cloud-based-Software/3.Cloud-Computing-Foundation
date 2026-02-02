@@ -4,13 +4,12 @@ Cloud Computing Foundation: Reporting Guidelines
 ***University of Amsterdam***
 
 # 1. Introduction
-In this tutorial assignment, you will explore the fundamentals of Cloud 
-Computing using AWS Academy resources. The goal is to gain an understanding of 
+In this tutorial assignment, you will explore the fundamentals of cloud computing using AWS Academy resources. The goal is to gain an understanding of 
 cloud concepts, services, and best practices, as well as hands-on experience 
 with cloud service provisioning and management.
 
 The objectives of this assignment are to:
-- Understand the foundation of Cloud Computing  
+- Understand the foundations of cloud computing 
 - Learn from the best industry practices in cloud services provisioning and management  
 - Get practical experience working with cloud services using AWS as an example of a cloud service provider  
 
@@ -22,17 +21,17 @@ AWS Academy in their introductory course **Cloud Computing Foundation** on the
 AWS Academy Canvas platform. It contains lessons, learning materials, and a 
 sandbox lab platform.
 
-- Students are provided free accounts on the Canvas platform along with AWS educational lab sandbox access for course lessons and individual projects.  
+- Students are provided with free accounts on the Canvas platform along with AWS educational lab sandbox access for course lessons and individual projects.  
 - Each student is granted **$100 USD credits** for the duration of the course.  
   - **Note:** Students are advised to monitor their costs carefully and regularly.  
-- The course includes **Knowledge Check** assignments per module, with a minimum required successfully passed checks listed below.  
+- The course includes **Knowledge Check** assignments per module, with a minimum number of required successfully passed checks listed below.
 
 ---
 
 # 2. Tutorial
 
 ## 2.1 Cloud Computing Basics  
-To Complete the Assignment:  
+To complete the assignment:
 Register and study the **AWS Cloud Foundation** course, completing at least the essential modules for the **DevOps course**, which you must report on:
 
 * **Mandatory Modules:** 
@@ -54,12 +53,11 @@ Register and study the **AWS Cloud Foundation** course, completing at least the 
 ---
 
 
-To Complete the Assignment use AWS Academy resources to perform the 
-following tasks:
+To complete the assignment, use AWS Academy resources to perform the following tasks:
 
 - Re-visit/study **Module 10: Auto Scaling and Monitoring**  
 - Perform **Lab 6**, including additional tasks to investigate **CloudWatch functionality**:  
-  - Monitor metrics and dashboard visualization, use of Alarms.  
+  - Monitor metrics and dashboard visualizations, and use alarms. 
   - Select components and metrics to monitor.  
   - Provide observations and suggestions for using cloud monitoring services in your project.  
 
